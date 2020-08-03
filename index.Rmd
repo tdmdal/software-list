@@ -1,0 +1,86 @@
+<style>
+ol ul {
+    margin-bottom: 10px;
+}
+</style>
+
+---
+title: "Analytics Software List"
+---
+
+You will learn to use various analytics tools and programming languages during your study at Rotman. Below is an incomplete list of them together with download links and getting-started resources. 
+
+### Python 3
+
+Python is a general purpose high-level programming language. It has a large collection of data science packages to help maximize your productivity in data analytics tasks.
+
+1. Install Python 3
+
+    Many distributions of Python are available. Among them, Anaconda is a major Python distribution popular among data scientists. Choose one of the download links below depending on your need.
+    * [Anaconda Individual Edition](https://www.anaconda.com/products/individual){target="_blank"} comes with many Python data science packages preinstalled (e.g numpy and pandas). It also includes a package and environment management system (called conda), a Jupyter Notebook setup, and Python developement tools (Spyder and Pycharm). It even includes R and RStudio.
+    * [Miniconda](https://docs.conda.io/en/latest/miniconda.html){target="_blank"} is a minimal install of Anaconda. It only includes conda, core Python, and a small number of useful Python packages.
+    
+2. Install a Code Editor
+
+    Many code editors work well with Python. [Visual Studio Code](https://code.visualstudio.com/){target="_blank"} with its [Python Extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python){target="_blank"} is one of the best. 
+    
+3. Get-started Resources
+    * Learn the Python language: [Python Essential Training](https://www.linkedin.com/learning/python-essential-training-2){target="_blank"} (login from [here](https://onesearch.library.utoronto.ca/linkit/lyndacom-online-courses){target="_blank"} using UTORid for free access).
+    * Learn programming (using Python): [Learn to Program: The Fundamentals](https://www.coursera.org/learn/learn-to-program){target="_blank"} (For free access, click "Enroll for Free" and then choose the "Full Course, No Certificate" option.)
+    * Learning Python data science skills: [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/){target="_blank"}.
+    
+### R
+
+R is a programming language for statistical computing. R provides a wide variety of statistical (linear and nonlinear modelling, classical statistical tests, time-series analysis, classification, clustering, …) and graphical techniques.
+
+1. Download R from [R-project](https://cloud.r-project.org/){target="_blank"}.
+
+2. Install [RStudio Desktop](https://rstudio.com/products/rstudio/download/){target="_blank"}, the best R development environment.
+
+3. Get-started Resources
+    * [R beginner learning path](https://education.rstudio.com/learn/beginner/){target="_blank"} from RStudio Education.
+    * [R for Data Science](https://r4ds.had.co.nz/){target="_blank"}.
+
+### SQL
+
+SQL is a database query language. 
+
+1. Installation
+
+    To use SQL, you typically need to install a database management system (DBMS). Lightweight DBMSs are most suitable for desktop/laptop installation. We recommend you two options.
+    
+    * [SQLite](https://www.sqlite.org/index.html){target="_blank"} (DBMS) and its GUI management client [DB Browser for SQLite](https://sqlitebrowser.org/){target="_blank"}.
+    * [Microsoft SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads){target="_blank"}, a mini-versin of MS SQL Server (<span style="color: red;">important:</span> download the **Express** version), and its GUI management client [SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms){target="_blank"} (SSMS).
+    
+2. Get-started Resources
+
+    * SQLite: [Learning SQL Programming by Scott Simpson](https://www.linkedin.com/learning/learning-sql-programming){target="_blank"} (login from [here](https://onesearch.library.utoronto.ca/linkit/lyndacom-online-courses){target="_blank"} using UTORid for free access).
+    * MS SQL Server Express: [Querying Microsoft SQL Server 2019](https://www.linkedin.com/learning/querying-microsoft-sql-server-2019){target="_blank"} (login from [here](https://onesearch.library.utoronto.ca/linkit/lyndacom-online-courses){target="_blank"} using UTORid for free access).
+    
+### JMP
+
+JMP is a suite of computer programs for statistical analysis developed by the JMP business unit of SAS Institute.
+
+1. Download JMP from [Rotman Hub](https://hub.rotman.utoronto.ca/){target="_blank"} (click the Software tile).
+
+2. Get-started Resources
+
+    * [Getting Started for Academics](https://www.jmp.com/en_us/events/ondemand/webcasts/academic/getting-started-for-academics.html)
+    * [JMP Learning Library](https://www.jmp.com/en_us/learning-library.html)
+    * [Statistical Thinking for Industrial Problem Solving](https://www.coursera.org/learn/statistical-thinking-applied-statistics){target="_blank"} (Click Enroll for Free, and then choose Audit Only for free access.)
+    
+### SAS
+
+SAS is a statistical software suite developed by SAS Institute for data management and advanced analytics.
+
+1. Download SAS from [Rotman Hub](https://hub.rotman.utoronto.ca/){target="_blank"} (click the Software tile).
+
+2. Get-started Resources
+
+    * [Free SAS E-Learning for Academics](https://www.sas.com/en_ca/learn/academic-programs/resources/free-sas-e-learning.html){target="_blank"}
+    * [Getting Started with SAS Programming](https://www.coursera.org/learn/sas-programming-basics){target="_blank"} (Click Enroll for Free, and then choose Audit Only for free access.)
+
+$~$
+
+Back to [TDMDAL Computing Page](https://tdmdal.github.io/)
+    

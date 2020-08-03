@@ -1,0 +1,12 @@
+name: "software-list"
+output_dir: "docs"
+include: ["*.pdf"]
+navbar:
+  title: "Analytics Software List"
+  right:
+    - text: "Home"
+      href: index.html
+output:
+  html_document:
+    theme: flatly
+    highlight: textmate
