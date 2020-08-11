@@ -61,7 +61,7 @@ SQL is a database query language.
 
 JMP is a suite of computer programs for statistical analysis developed by the JMP business unit of SAS Institute.
 
-1. Download JMP from [Rotman Hub](https://hub.rotman.utoronto.ca/){target="_blank"} (click the Software tile).
+1. Download JMP from [Rotman Hub](https://hub.rotman.utoronto.ca/){target="_blank"} (click the "Software" tile, and then follow the SAS "Download" link. The JMP download link is under the "JMP" tab).
 
 2. Get-started Resources
 
