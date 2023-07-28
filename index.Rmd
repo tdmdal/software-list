@@ -17,7 +17,7 @@ Python is a general purpose high-level programming language. It has a large coll
 1. Install Python 3
 
     Many distributions of Python are available. Among them, Anaconda is a major Python distribution popular among data scientists. Choose one of the download links below depending on your need.
-    * [Anaconda Individual Edition](https://www.anaconda.com/products/individual){target="_blank"} comes with many Python data science packages preinstalled (e.g numpy and pandas). It also includes a package and environment management system (called conda), a Jupyter Notebook setup, and Python developement tools (Spyder and Pycharm). It even includes R and RStudio.
+    * [Anaconda Distribution](https://www.anaconda.com/download){target="_blank"} comes with many Python data science packages preinstalled (e.g numpy and pandas). It also includes a package and environment management system (called conda), a Jupyter Notebook setup, and Python developement tools (Spyder and Pycharm). It even includes R and RStudio.
     * [Miniconda](https://docs.conda.io/en/latest/miniconda.html){target="_blank"} is a minimal install of Anaconda. It only includes conda, core Python, and a small number of useful Python packages.
     
 2. Install a Code Editor
@@ -25,9 +25,10 @@ Python is a general purpose high-level programming language. It has a large coll
     Many code editors work well with Python. [Visual Studio Code](https://code.visualstudio.com/){target="_blank"} with its [Python Extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python){target="_blank"} is one of the best. 
     
 3. Get-started Resources
-    * Learn the Python language: [Python Essential Training](https://www.linkedin.com/learning/python-essential-training-2){target="_blank"} (login from [here](https://onesearch.library.utoronto.ca/linkit/lyndacom-online-courses){target="_blank"} using UTORid for free access).
+    * Learn the Python language: [Python Essential Training](https://www.linkedin.com/learning/python-essential-training-2){target="_blank"}. (See [here][LinkedIn Learning Access] for how to access LinkedIn Learning for free.)
     * Learn programming (using Python): [Learn to Program: The Fundamentals](https://www.coursera.org/learn/learn-to-program){target="_blank"} (For free access, click "Enroll for Free" and then choose the "Full Course, No Certificate" option.)
-    * Learning Python data science skills: [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/){target="_blank"}.
+    * Learn Python data analysis skills: [Python for Data Analysis](https://wesmckinney.com/book/){target="_blank"}. 
+    * Learn Python data science skills: [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/){target="_blank"}.
     
 ### R
 
@@ -54,14 +55,14 @@ SQL is a database query language.
     
 2. Get-started Resources
 
-    * SQLite: [Learning SQL Programming by Scott Simpson](https://www.linkedin.com/learning/learning-sql-programming){target="_blank"} (login from [here](https://onesearch.library.utoronto.ca/linkit/lyndacom-online-courses){target="_blank"} using UTORid for free access).
-    * MS SQL Server Express: [Querying Microsoft SQL Server 2019](https://www.linkedin.com/learning/querying-microsoft-sql-server-2019){target="_blank"} (login from [here](https://onesearch.library.utoronto.ca/linkit/lyndacom-online-courses){target="_blank"} using UTORid for free access).
+    * SQLite: [Learning SQL Programming by Scott Simpson](https://www.linkedin.com/learning/learning-sql-programming){target="_blank"}. (See [here][LinkedIn Learning Access] for how to access LinkedIn Learning for free.)
+    * MS SQL Server Express: [Querying Microsoft SQL Server 2019](https://www.linkedin.com/learning/querying-microsoft-sql-server-2019){target="_blank"}. (See [here][LinkedIn Learning Access] for how to access LinkedIn Learning for free.)
     
 ### JMP
 
 JMP is a suite of computer programs for statistical analysis developed by the JMP business unit of SAS Institute.
 
-1. Download JMP from [Rotman Hub](https://hub.rotman.utoronto.ca/){target="_blank"} (click the "Software" tile, and then follow the SAS "Download" link. The JMP download link is under the "JMP" tab).
+1. Download JMP from [Rotman Hub](https://hub.rotman.utoronto.ca/){target="_blank"}. Click the "Software" tile, and then follow the JMP "Download" link.
 
 2. Get-started Resources
 
@@ -73,14 +74,24 @@ JMP is a suite of computer programs for statistical analysis developed by the JM
 
 SAS is a statistical software suite developed by SAS Institute for data management and advanced analytics.
 
-1. Download SAS from [Rotman Hub](https://hub.rotman.utoronto.ca/){target="_blank"} (click the Software tile).
+1. Download SAS from [Rotman Hub](https://hub.rotman.utoronto.ca/){target="_blank"}. Click the Software tile, and then follow the SAS "Download" link.
 
 2. Get-started Resources
 
     * [Free SAS E-Learning for Academics](https://www.sas.com/en_ca/learn/academic-programs/resources/free-sas-e-learning.html){target="_blank"}
     * [Getting Started with SAS Programming](https://www.coursera.org/learn/sas-programming-basics){target="_blank"} (Click Enroll for Free, and then choose Audit Only for free access.)
+    
+------------------------------------------------------------------------
 
-$~$
+### LinkedIn Learning Access
+
+Use one of the following options to get free access to LinkedIn Learning.
+
+* Register a free [1-month trial account](https://www.linkedin.com/learning/subscription/products){target="_blank"} and take the course.
+* Apply for a free Toronto Public Library card, and login LinkedIn Learning via [the library site](https://www.torontopubliclibrary.ca/detail.jsp?R=EDB0187){target="_blank"}. (Note that you can get Toronto Public Library's [Digital Access Card](https://www.torontopubliclibrary.ca/using-the-library/your-library-card/){target="_blank"} without visiting a library branch.)
+* If you are a UofT graduate, you could register [here](https://my.alumni.utoronto.ca/linkedinlearning){target="_blank"} at UofT alumni site to get free access to LinkedIn Learning until 8/16/2023.
+
+------------------------------------------------------------------------
 
 Back to [TDMDAL Computing Page](https://tdmdal.github.io/)
     
