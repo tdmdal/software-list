@@ -50,13 +50,13 @@ SQL is a database query language.
 
     To use SQL, you typically need to install a database management system (DBMS). Lightweight DBMSs are most suitable for desktop/laptop installation. We recommend you two options.
     
-    * [SQLite](https://www.sqlite.org/index.html){target="_blank"} (DBMS) and its GUI management client [DB Browser for SQLite](https://sqlitebrowser.org/){target="_blank"}.
+    * [SQLite](https://www.sqlite.org/index.html){target="_blank"} (DBMS) and its GUI management client [DB Browser for SQLite](https://sqlitebrowser.org/){target="_blank"}. Note that DB Browser installation includes a version of SQLite, so no need to install SQLite separately.
     * [Microsoft SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads){target="_blank"}, a mini-versin of MS SQL Server (<span style="color: red;">important:</span> download the **Express** version), and its GUI management client [SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms){target="_blank"} (SSMS).
     
 2. Get-started Resources
 
     * SQLite: [Learning SQL Programming by Scott Simpson](https://www.linkedin.com/learning/learning-sql-programming){target="_blank"}. (See [here][LinkedIn Learning Access] for how to access LinkedIn Learning for free.)
-    * MS SQL Server Express: [Querying Microsoft SQL Server 2019](https://www.linkedin.com/learning/querying-microsoft-sql-server-2019){target="_blank"}. (See [here][LinkedIn Learning Access] for how to access LinkedIn Learning for free.)
+    * MS SQL Server Express: [Querying Microsoft SQL Server 2022](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022){target="_blank"}. (See [here][LinkedIn Learning Access] for how to access LinkedIn Learning for free.)
     
 ### JMP
 
@@ -66,8 +66,8 @@ JMP is a suite of computer programs for statistical analysis developed by the JM
 
 2. Get-started Resources
 
-    * [Getting Started for Academics](https://www.jmp.com/en_us/events/ondemand/webcasts/academic/getting-started-for-academics.html)
-    * [JMP Learning Library](https://www.jmp.com/en_us/learning-library.html)
+    * [JMP User Community Learning Resources](https://community.jmp.com/t5/Learn-JMP/ct-p/learn-jmp){target="_blank"}
+    * [JMP Learning Library](https://www.jmp.com/en_us/learning-library.html){target="_blank"}
     * [Statistical Thinking for Industrial Problem Solving](https://www.coursera.org/learn/statistical-thinking-applied-statistics){target="_blank"} (Click Enroll for Free, and then choose Audit Only for free access.)
     
 ### SAS
@@ -89,7 +89,7 @@ Use one of the following options to get free access to LinkedIn Learning.
 
 * Register a free [1-month trial account](https://www.linkedin.com/learning/subscription/products){target="_blank"} and take the course.
 * Apply for a free Toronto Public Library card, and login LinkedIn Learning via [the library site](https://www.torontopubliclibrary.ca/detail.jsp?R=EDB0187){target="_blank"}. (Note that you can get Toronto Public Library's [Digital Access Card](https://www.torontopubliclibrary.ca/using-the-library/your-library-card/){target="_blank"} without visiting a library branch.)
-* If you are a UofT graduate, you could register [here](https://my.alumni.utoronto.ca/linkedinlearning){target="_blank"} at UofT alumni site to get free access to LinkedIn Learning until 8/16/2023.
+* If you are a UofT graduate, you could register [here](https://my.alumni.utoronto.ca/linkedinlearning){target="_blank"} at UofT alumni site to get free access to LinkedIn Learning.
 
 ------------------------------------------------------------------------
 
